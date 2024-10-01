@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-10T11:29:25 IST" name="Default suite" finished-at="2024-08-10T11:29:28 IST" duration-ms="3005">
+    <groups>
+    </groups>
+    <test started-at="2024-08-10T11:29:25 IST" name="Default test" finished-at="2024-08-10T11:29:28 IST" duration-ms="3005">
+      <class name="Script3">
+        <test-method signature="dattaprovider(java.lang.String,int)[pri:0, instance:Script3@248e319b]" started-at="2024-08-10T11:29:25 IST" name="dattaprovider" data-provider="dfgh" finished-at="2024-08-10T11:29:28 IST" duration-ms="2698" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[denk]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dattaprovider -->
+        <test-method signature="dattaprovider(java.lang.String,int)[pri:0, instance:Script3@248e319b]" started-at="2024-08-10T11:29:28 IST" name="dattaprovider" data-provider="dfgh" finished-at="2024-08-10T11:29:28 IST" duration-ms="218" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dsa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dattaprovider -->
+      </class> <!-- Script3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
